@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">th1</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_msg">Create</string>
+    <string name="sendby_msg">View</string>
+    <string name="starting_point">Starting Point:</string>
+    <string name="ending_point">Ending Point:</string>
+    <string name="fuel_consumption">Fuel Consumption:</string>
+    <string name="calculate">Calculate</string>
+    <string name="welcome_to_travelhelper">Welcome to TravelHelper.</string>
+    <string name="get_record">Get Record</string>
+    <string name="sydney">Sydney</string>
+    <string name="returnHome">Home</string>
+    <string name="edittrip">Edit Trips</string>
+</resources>

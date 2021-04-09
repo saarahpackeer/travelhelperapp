@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFACAC</color>
+    <color name="colorPrimaryDark">#5C5C5C</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="recalculateButtonCOlor">#77B830</color>
+    <color name="deleteButtonColor">#D14E4E</color>
+</resources>
